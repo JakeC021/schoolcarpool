@@ -1,3 +1,6 @@
+# test feedback:
+https://shorturl.at/fA4ts
+
 # SchoolPool — Test Team Briefing
 
 > Pre-launch manual test · April 2026
