@@ -1,3 +1,8 @@
+#User Portal:
+https://sentinelsc.schoolpool.ca/
+#Admin Portal:
+https://sentinelsc.schoolpool.ca/admin
+
 # Test feedback:
 https://shorturl.at/fA4ts
 
