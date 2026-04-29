@@ -72,7 +72,6 @@ New parents register in four steps:
 3. **Children** — add each child's name and year group
 4. **Address** — save a home address (used as default pickup location)
 
-> **To test:** Use any email ending in `@westside.school.ca`. You can make it up — e.g. `testparent1@westside.school.ca`.
 
 ---
 
@@ -199,13 +198,12 @@ The admin portal is **desktop-only** and used exclusively by school staff. Staff
 
 | Item | Value |
 |------|-------|
-| Parent portal | `http://localhost:5173` |
-| Admin portal | `http://localhost:5173/admin` |
-| School email domain | `@westside.school.ca` |
-| Admin login | `admin@westside.school.ca` |
+| Parent portal | `https://sentinelsc.schoolpool.ca/` |
+| Admin portal | `https://sentinelsc.schoolpool.ca/admin` |
+| School email domain | `@edu.sd45.bc.ca` |
 | Emails | Real emails are sent — check your inbox during the test |
 
-> You can register multiple parent accounts using different email addresses at the same domain (e.g. `driver1@westside.school.ca`, `passenger1@westside.school.ca`).
+> You can register multiple parent accounts using different email addresses at the same domain (e.g. `driver1@outlook.com`, `passenger1@google.com`).
 
 ---
 
@@ -213,7 +211,7 @@ The admin portal is **desktop-only** and used exclusively by school staff. Staff
 
 Work through these in order if possible. Each builds on the last.
 
-1. **Register** a new parent account with a `@westside.school.ca` email
+1. **Register** a new parent account with an email address
 2. **Post a ride request** as a passenger (morning, next available date)
 3. **Register a second account**, add a vehicle, then **browse the board** and **confirm the booking**
 4. **Start the trip** as the driver → **complete the trip**
