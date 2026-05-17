@@ -16,9 +16,6 @@ https://shorturl.at/fA4ts
 > Pre-launch manual test · April 2026
 
 Thank you for helping us test SchoolPool before it goes live. This document gives you everything you need to understand the system, navigate both portals, and submit useful feedback.
-
----
-
 ## Table of contents
 
 - [What is SchoolPool?](#what-is-schoolpool)
