@@ -9,6 +9,8 @@ https://github.com/JakeC021/schoolcarpool/wiki#3-parent-portal
 # Test feedback:
 https://shorturl.at/fA4ts
 
+---
+
 # SchoolPool — Test Team Briefing
 
 > Pre-launch manual test · April 2026
