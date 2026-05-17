@@ -3,7 +3,7 @@ https://sentinelsc.schoolpool.ca/
 #Admin Portal:
 https://sentinelsc.schoolpool.ca/admin
 
-# Test Manul:
+# Test Manual:
 https://github.com/JakeC021/schoolcarpool/wiki#3-parent-portal
 
 # Test feedback:
